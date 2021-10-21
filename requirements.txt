@@ -1,0 +1,4 @@
+aiogram==2.15
+python-dotenv==0.19.1
+environs==9.3.4
+autopep8==1.5.7
